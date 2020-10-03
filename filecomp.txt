@@ -1,1 +1,2 @@
 This is linenumber 1 in remote repository
+This is linenumber 2 in local repository
