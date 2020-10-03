@@ -1,2 +1,4 @@
 This is linenumber 1 in remote repository
 This is linenumber 2 in local repository
+This is linenumber 3 in staging area
+This is linenumber 4 in working directory
